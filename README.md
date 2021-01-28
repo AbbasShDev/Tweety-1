@@ -4,14 +4,14 @@ This is a forked repository from the "Laravel From Scratch" [final project](http
 Fill free to fork and any suggestions are welcomed.
 ## Demo
 
-You can fid the demo [here](http://tweety-abs.herokuapp.com/) hosted on Heroku
+You can find the demo [here](http://tweety-abs.herokuapp.com/) hosted on Heroku
 
 ## The recommended Additions
 
 1. { <strong>Done</strong> } The profile page banner image and description are hard-coded. Make these dynamic for each user.
->
->    - <strong>Commit</strong>: [Find it here](https://github.com/AbbasShDev/Tweety-1/commit/1a28af4202b193d1ec5303d251c91249e02ae2bf)
->  
+
+    - <strong>Commit</strong>: [Find it here](https://github.com/AbbasShDev/Tweety-1/commit/1a28af4202b193d1ec5303d251c91249e02ae2bf)
+  
 2. { <strong>Done</strong> } Add the ability to attach an image when publishing a tweet.
 >
 >    - <strong>Commit</strong>: [Find it here](https://github.com/AbbasShDev/Tweety-1/commit/5235bd28303988524e6712ab48cf8f76fe04c3cb)
