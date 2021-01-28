@@ -60,6 +60,9 @@ You can find the demo [here](http://tweety-abs.herokuapp.com/) hosted on Heroku
 3. Adding followers and followings pages.
 
     - <strong>Commit</strong>: [Find it here](https://github.com/AbbasShDev/Tweety-1/commit/0f7791994ee81f086b1aa5481ff84ed8606084eb)
+4. Upload image to Amazon s3.
+
+    - <strong>Commit</strong>: [Find it here](https://github.com/AbbasShDev/Tweety-1/commit/9b11b366a393b12c3774e7845326ee20eef309d4)
  
 # DON'T FORGET TO FOLLOW ME ON
 
